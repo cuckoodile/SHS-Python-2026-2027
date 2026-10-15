@@ -97,17 +97,73 @@
 
 
 
-students = ['Pam', 'Chounce', 'Dabocol', 'Regis']
+# students = ['Pam', 'Chounce', 'Dabocol', 'Regis']
 
-print(students[2])
+# print(students[2])
 
-students.append('Talavera')
+# students.append('Talavera')
 
-print(students)
+# print(students)
 
-students[0] = "Gutierrez"
-print(students)
+# students[0] = "Gutierrez"
+# print(students)
 
-del students[1]
-print(students)
-print(students[1])
+# del students[1]
+# print(students)
+# print(students[1])
+
+
+
+
+
+
+
+
+
+# name = input("Who are you? ")
+# birth_year = int(input("When were you born? "))
+# hobbies = []
+
+# hobby1 = input("Hobby 1: ")
+# hobby2 = input("Hobby 2: ")
+# hobby3 = input("Hobby 3: ")
+
+# hobbies.append(hobby1)
+# hobbies.append(hobby2)
+# hobbies.append(hobby3)
+
+# print(hobbies)
+
+# print(f"Hello {name}, you are {2026 - birth_year} years old and you love {hobbies[0]} and {hobbies[2]} but you love {hobbies[1]} the most!")
+
+
+# String Methods
+# upper
+# lower
+# capitalized
+# title
+
+# count
+
+# strip
+# split
+# join
+# find
+
+# print("IAn SubE".upper())
+# print("IAn SubE".lower())
+# print("IAn SubE".capitalize())
+# print("IAn SubE".title())
+# print("LhOUrde IAn SubE".lower().count('e'))
+# print("      LhOUrde IAn SubE        ")
+# print("      LhOUrde IAn SubE        ".strip().title())
+# print("      LhOUrde IAn SubE        ".title().strip())
+
+print('   0 !@."     '.lower().strip())
+
+
+
+
+
+
+
