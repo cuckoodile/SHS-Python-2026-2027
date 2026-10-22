@@ -31,3 +31,13 @@ Create a python I/O program that asks the user for a 24-hour time format, then r
 
 # Bonus (+5 exam):
 - Allow the user to input an AM and PM format i.e.: `1:25PM` then convert it into 24-hour format before doing any condition check.
+
+## How To Check:
+1. 01:25 AM
+> ...
+
+2. 6:30 AM
+> It's Breakfast Time!
+
+3. 6:59 PM
+> It's Dinner Time!
